@@ -1,2 +1,2 @@
 # AprimorandoJavaScript
-Aqui se encontrar comandos básicos e importantes para meu aprimoramento em JavaScript.
+Aqui se encontra comandos básicos e importantes para meu aprimoramento em JavaScript.
