@@ -1,9 +1,9 @@
 var doces = [
-  "Doce de Leite"
-  "Doce de Abobora"
-  "Brigadeiro"
-  "Beijinho"
-  "Goiabada"
+  "Doce de Leite",
+  "Doce de Abobora",
+  "Brigadeiro",
+  "Beijinho",
+  "Goiabada",
   "Chocolate"
 ];
 
